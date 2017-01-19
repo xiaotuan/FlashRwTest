@@ -1,0 +1,33 @@
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flash_rw_test_name">FlashRwTest</string>
+
+    <string name="write_size">"Write size(KB): "</string>
+    <string name="file_size">"File size(KB): "</string>
+    <string name="start_test">Start Test</string>
+    <string name="back">Back</string>
+    <string name="last_test_result">"Last test result: "</string>
+    <string name="actual_write_size">"Actual write size(KB): "</string>
+    <string name="file_check_result">"File check result: "</string>
+    <string name="write_speed">"Write speed: "</string>
+    <string name="test_result">"Test result: "</string>
+    <string name="test_directory">FlashRwTest</string>
+    <string name="test_file_name">test<xliff:g id="index">%d</xliff:g></string>
+    <string name="test_file_suffix">tst</string>
+    <string name="cancel">Cancel</string>
+    <string name="success">Success</string>
+    <string name="fail">Fail</string>
+    <string name="invalid_value">Invalid value</string>
+    <string name="value_greater_zero">Value should be greater than 0</string>
+    <string name="file_and_write_limit">File size must be less than or equal to the size of the write</string>
+    <string name="no_space">Insufficient storage space</string>
+    <string name="note_text">Note: Do not operate the phone during the test.</string>
+    <string name="write_file_dialog_title">"Writing file("<xliff:g id="index">%d</xliff:g>"/"<xliff:g id="index">%d</xliff:g>")"</string>
+    <string name="write_speed_info">"Write speed: "<xliff:g id="index">%s</xliff:g>" MB/S"</string>
+    <string name="check_file_dialog_title">"Checking file("<xliff:g id="index">%d</xliff:g>"/"<xliff:g id="index">%d</xliff:g>")"</string>
+    <string name="delete_file_dialog_title">"Deleting file("<xliff:g id="index">%d</xliff:g>"/"<xliff:g id="index">%d</xliff:g>")"</string>
+    <string name="cyclic_test">Cyclic test</string>
+    <string name="current_avail_space">Current available space: "<xliff:g id="index">%d</xliff:g>" KB"</string>
+    <string name="delete_test_file">Delete file</string>
+    <string name="delete_file_completed">Test file deleted successfully</string>
+
+</resources>

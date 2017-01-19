@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="edit_text_frame_width">1px</dimen>
+    <integer name="size_edit_text_length">10</integer>
+    <bool name="delete_file_after_test">true</bool>
+    <bool name="default_cyclic_test">true</bool>
+</resources>

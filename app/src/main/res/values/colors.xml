@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="edit_text_bg_color">#ffffffff</color>
+    <color name="edit_text_frame_color">#ffa4c8f4</color>
+    <color name="dividing_line_color">#ff666666</color>
+    <color name="green">#ff00ff00</color>
+    <color name="red">#ffff0000</color>
+
+</resources>

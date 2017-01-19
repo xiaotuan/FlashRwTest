@@ -1,0 +1,32 @@
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flash_rw_test_name">"Flash读写测试"</string>
+
+    <string name="write_size">"写入大小(KB): "</string>
+    <string name="file_size">"文件大小(KB): "</string>
+    <string name="start_test">"开始测试"</string>
+    <string name="back">"返回"</string>
+    <string name="last_test_result">"上次测试结果: "</string>
+    <string name="actual_write_size">"实际写入大小(KB): "</string>
+    <string name="file_check_result">"文件校验结果: "</string>
+    <string name="write_speed">"写入速度: "</string>
+    <string name="test_result">"测试结果: "</string>
+    <string name="test_file_name">test<xliff:g id="index">%d</xliff:g></string>
+    <string name="test_file_suffix">tst</string>
+    <string name="cancel">"取消"</string>
+    <string name="success">"成功"</string>
+    <string name="fail">"失败"</string>
+    <string name="invalid_value">"非法数值"</string>
+    <string name="value_greater_zero">"值必须大于０"</string>
+    <string name="file_and_write_limit">"文件大小必须小于或等于写入大小"</string>
+    <string name="no_space">"存储空间不足"</string>
+    <string name="note_text">"注意：测试期间请勿操作手机。"</string>
+    <string name="write_file_dialog_title">"写入文件("<xliff:g id="index">%d</xliff:g>"/"<xliff:g id="index">%d</xliff:g>")"</string>
+    <string name="write_speed_info">"写入速度: "<xliff:g id="index">%s</xliff:g>" MB/S"</string>
+    <string name="check_file_dialog_title">"校验文件("<xliff:g id="index">%d</xliff:g>"/"<xliff:g id="index">%d</xliff:g>")"</string>
+    <string name="delete_file_dialog_title">"删除文件("<xliff:g id="index">%d</xliff:g>"/"<xliff:g id="index">%d</xliff:g>")"</string>
+    <string name="cyclic_test">"循环测试"</string>
+    <string name="current_avail_space">"当前存储可用空间大小: "<xliff:g id="index">%d</xliff:g>" KB"</string>
+    <string name="delete_test_file">"删除文件"</string>
+    <string name="delete_file_completed">"删除测试文件成功"</string>
+
+</resources>
